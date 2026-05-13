@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/index.php", "destination": "/api/index" },
+    { "source": "/ficha/index.php", "destination": "/api/ficha/index" }
+  ]
+}
